@@ -1,0 +1,14 @@
+[project]
+name = "h3-auto-prompt-chain"
+version = "2.0.0"
+description = "Unattended multi-shot MiniMax H3 prompt chains for ComfyUI"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/misutesu-desu/H3-AutoPromptChain"
+
+[tool.comfy]
+PublisherId = "misutesu-desu"
+DisplayName = "H3 Auto Prompt Chain"
+requires-comfyui = ">=0.30.0"
