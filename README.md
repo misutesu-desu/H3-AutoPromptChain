@@ -5,7 +5,7 @@ A ComfyUI output node for unattended MiniMax H3 long-video generation from a lis
 ## Requirements
 
 - A current ComfyUI installation with MiniMax H3 support
-- [Herrgotts-H3-Infinite-Continuation-Suite](https://github.com/Herrgotts/Herrgotts-H3-Infinite-Continuation-Suite)
+- [Herrgotts-H3-Infinite-Continuation-Suite](https://github.com/HerrgottMargott/Herrgotts-H3-Infinite-Continuation-Suite)
 - A compatible `MODEL`, `CLIP`, video `VAE`, audio `VAE`, and `SAMPLER`
 
 No additional Python packages are required.
