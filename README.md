@@ -56,6 +56,6 @@ Generated latents, videos, and profiles stay inside ComfyUI's configured output 
 
 ## Notes
 
-- The internal node identifier remains `H3AutoPromptChainRunnerOptimal` so existing workflows continue to load.
+
 - Up to 80 shots are accepted in one unattended run.
 - The final clip is saved without trimming its ending.
